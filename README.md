@@ -1,4 +1,4 @@
-## Finds most similar images given a query image 
+## Finds most similar images given a query image with OpenCV
 
 based on L2 or Hamming distance
 
